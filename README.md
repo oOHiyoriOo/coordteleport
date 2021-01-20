@@ -2,7 +2,7 @@
 Script that allows you to teleport your GPS Joystick from TheAppNinjas instance into any GPS coordinates directly from your computer.
 
 Necessary apps/files:
-GPS Joystick by TheAppNinjas
+GPS Joystick by TheAppNinjas 
 ADB (Android Debug Bridge)
 Python
 
