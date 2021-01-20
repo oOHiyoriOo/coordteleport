@@ -5,6 +5,7 @@ Necessary apps/files:
 1. GPS Joystick by TheAppNinjas https://play.google.com/store/apps/details?id=com.theappninjas.fakegpsjoystick
 2. ADB (Android Debug Bridge) https://dl.google.com/android/repository/platform-tools-latest-windows.zip
 3. Python https://www.python.org/downloads/
+4. This script. Download it as zip by clicking the green Code button on top of this page.
 
 **You'll need to introduce your adb.exe path & your phone IP into the variables path and phone_ip respectively.**
 
